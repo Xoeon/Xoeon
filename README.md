@@ -14,5 +14,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/STYLED--COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/TAILWINDCSS-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
