@@ -31,7 +31,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/REACT%20QUERY-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=next&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp
 </div>
 
 <br>
