@@ -21,6 +21,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SPRING-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
