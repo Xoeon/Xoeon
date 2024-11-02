@@ -45,4 +45,4 @@
 <div align="center">
   <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/FIGMA-EF7D6D.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+</div> 
