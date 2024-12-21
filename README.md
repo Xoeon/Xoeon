@@ -7,12 +7,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/REACT-0088CC.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/REDUX-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/REACT%20QUERY-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/STYLED--COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>
@@ -22,15 +23,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/SWAGGER-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">Studying 📑</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/REACT%20QUERY-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SWAGGER-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp
 </div>
 
 <br>
